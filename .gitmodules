@@ -1,0 +1,9 @@
+[submodule "OpenFOAM-6"]
+    path = OpenFOAM-6     
+    url = https://github.com/XcodeRole/OpenFOAM-6.git
+[submodule "PsP-VsT"]
+    path = PsP-VsT
+    url = https://github.com/XcodeRole/PsP-VsT.git
+[submodule "VsP-PsT"]
+    path = VsP-PsT
+    url = https://github.com/XcodeRole/VsP-PsT.git
